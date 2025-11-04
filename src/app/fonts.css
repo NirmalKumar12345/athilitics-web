@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'Sansation Light';
+  src: url('/fonts/sansation/Sansation-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TT Norms Pro';
+  src: url('/fonts/ttNormsPro/TTNormsPro-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Satoshi Light';
+  src: url('/fonts/satoshi/Satoshi-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TT Norms Pro Medium';
+  src: url('/fonts/ttNormsPro/TTNormsPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Sansation Bold';
+  src: url('/fonts/sansation/Sansation-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sansation Italic Bold';
+  src: url('/fonts/sansation/Sansation-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/fonts/satoshi/Satoshi-Variable.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Satoshi Bold';
+  src: url('/fonts/satoshi/Satoshi-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sansation Regular';
+  src: url('/fonts/sansation/Sansation-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style:  normal;
+}
+@font-face {
+  font-family: 'Satoshi Medium';
+  src: url('/fonts/satoshi/Satoshi-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Satoshi Regular';
+  src: url('/fonts/satoshi/Satoshi-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+.font-sansation-regular {
+  font-family: 'Sansation Regular';
+  font-weight: 400;
+  letter-spacing:  0px;
+}
+.font-sansation-bold {
+  font-family: 'Sansation Bold';
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+.font-sansation-italic-bold {
+  font-family: 'Sansation Italic Bold';
+  font-weight: 700;
+  font-size: 78px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.font-satoshi-regular {
+  font-family: 'Satoshi Regular';
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+.font-satoshi-light {
+  font-family: 'Satoshi Light';
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  vertical-align: middle;
+}
+.font-satoshi-variable {
+  font-family: 'Satoshi';
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+.font-tt-norms-pro {
+  font-family: 'TT Norms Pro';
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: right;
+  vertical-align: middle;
+}
+.font-tt-norms-pro-medium {
+  font-family: 'TT Norms Pro Medium';
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.font-sansation-light {
+  font-family: 'Sansation Light';
+  font-weight: 300;
+  color: white;
+  font-size: 37px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  font-variant-numeric: lining-nums proportional-nums;
+}
+
+.font-satoshi-bold {
+  font-family: 'Satoshi Bold';
+  font-weight: 700;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+.font-satoshi-medium {
+  font-family: 'Satoshi Medium';
+  font-weight: 500;
+  letter-spacing: 0px;
+}
